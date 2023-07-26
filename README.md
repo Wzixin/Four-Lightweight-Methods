@@ -12,11 +12,9 @@ This project is the PyTorch implementation
 - Knowledge Distillation
 - Compact Model
 
-## Suggested reading order: model pruning, model quantization, knowledge distillation, compact models
+Suggested reading order: Model Pruning, Model Quantization, Knowledge Distillation, Compact Models
 
 ## Wzixin
-
-
 	                                                                                                                                         
 	                                                                                                                                         
 	FFFFFFFFFFFFFFFFFFFFFF                                                        LLLLLLLLLLL     WWWWWWWW                           WWWWWWWW
